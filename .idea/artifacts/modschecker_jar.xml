@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="modschecker:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/modschecker_jar</output-path>
+    <root id="archive" name="modschecker.jar">
+      <element id="module-output" name="modschecker" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-compress/1.26.2/commons-compress-1.26.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-tree/9.7/asm-tree-9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-commons/9.7/asm-commons-9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm-analysis/9.7/asm-analysis-9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/json/json/20240303/json-20240303.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.17.1/commons-codec-1.17.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/ow2/asm/asm/9.7/asm-9.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.16.1/commons-io-2.16.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
